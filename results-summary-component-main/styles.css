@@ -1,0 +1,36 @@
+.result{
+    padding: 0;
+    margin: 2px px;
+    background-color: blue;
+    color: white;
+    position: absolute;
+    left: 34;
+   
+   
+   
+}
+
+body{
+  background-color: rgb(255, 255, 255);
+  padding: 21% 21%;
+  position: absolute;
+  margin: auto;
+  size: 100%;
+}
+.summary{
+    padding: 0;
+    margin: 2px px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: absolute;
+    right: 34%;
+}
+
+.attribution { 
+    font-size: 11px;   
+    text-align: center; 
+    margin: 188px 0 ;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
